@@ -1,8 +1,10 @@
 aiohttp
+aiohttp_jinja2
 black
 discord.py
 GitPython
 loguru
+pendulum
 platformio
 PyGithub
 pylint
